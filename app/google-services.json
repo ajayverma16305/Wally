@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72406299308",
+    "firebase_url": "https://wally-ce3a9.firebaseio.com",
+    "project_id": "wally-ce3a9",
+    "storage_bucket": "wally-ce3a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72406299308:android:bd243a82827df5ef0da509",
+        "android_client_info": {
+          "package_name": "com.example.wally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72406299308-d0f401des42s7ei5e4gopd1e1e3c8sof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDN8_sRdrBeABsMTKg3o-XYGEO7K8NjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72406299308-d0f401des42s7ei5e4gopd1e1e3c8sof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
